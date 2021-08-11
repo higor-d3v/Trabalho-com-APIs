@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ifood",
+    "domain": "ifood.com.br",
+    "year_founded": 2011,
+    "industry": "Internet",
+    "employees_count": 4119,
+    "locality": "Osasco",
+    "country": "Brazil",
+    "linkedin_url": "linkedin.com/company/ifood-"
+  },
+  {
+    "name": "Cubos Tecnologia",
+    "domain": "cubos.io",
+    "year_founded": 2013,
+    "industry": "Computer software",
+    "employees_count": 105,
+    "locality": "Salvador",
+    "country": "Brazil",
+    "linkedin_url": "linkedin.com/company/cubostecnologia"
+  },
+  {
+    "name": "Exame.Com",
+    "domain": "exame.com",
+    "year_founded": 1967,
+    "industry": "Online media",
+    "employees_count": 388,
+    "locality": "Sao Paulo",
+    "country": "Brazil",
+    "linkedin_url": "linkedin.com/company/exame-com"
+  }
+]
