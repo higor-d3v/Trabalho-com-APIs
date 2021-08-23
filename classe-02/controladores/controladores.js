@@ -9,7 +9,7 @@ const votoPost = async (req, res) => {
     try {
         const getLocation = await instanciaAxios.get("/v1", {
             params: {
-                api_key: "58cafbe4558f425d8e8c731e3b26fbe0",
+                api_key: "34a8499969c4401daf6a685935323c1d",
                 ip_address: ip
             }
         });
